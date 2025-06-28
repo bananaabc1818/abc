@@ -1,2 +1,2 @@
 print("My name is To Tran")
-print("I'm 12")gi
+print("I'm 12")
